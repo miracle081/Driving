@@ -1,0 +1,12 @@
+
+@media (min-width: 400px){
+    .side-pic{
+        height: 74px !important;
+    }
+}
+@media (max-width: 2000px){
+    .side-pic{
+        height: 200px !important;
+    }
+}
+
